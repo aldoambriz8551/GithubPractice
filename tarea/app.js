@@ -21,4 +21,3 @@ const getDadJoke = async () => {
 };
 
 button.addEventListener("click", addNewJoke);
-```
